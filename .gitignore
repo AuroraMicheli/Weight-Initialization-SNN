@@ -1,0 +1,19 @@
+#ignore .sbatch files
+*.sbatch
+
+# Ignore .npy files
+*.npy
+
+# Ignore common system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment and log files
+*.log
+*.env
+
