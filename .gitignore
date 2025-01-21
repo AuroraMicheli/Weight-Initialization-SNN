@@ -22,3 +22,6 @@ __pycache__/
 
 #ignore data
 path/to/data/
+
+#ignore .sh files
+*.sh
