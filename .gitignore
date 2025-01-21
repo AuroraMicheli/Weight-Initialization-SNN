@@ -4,6 +4,9 @@
 # Ignore .npy files
 *.npy
 
+#ignore .out files
+*.out
+
 # Ignore common system files
 .DS_Store
 Thumbs.db
@@ -17,3 +20,5 @@ __pycache__/
 *.log
 *.env
 
+#ignore data
+path/to/data/
